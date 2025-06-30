@@ -1,4 +1,4 @@
-# V2Ray Cloud Run Multi-backend Proxy
+# V2Ray Cloud Run Multi-backend Proxy FREE
 
 This project deploys an NGINX reverse proxy to Google Cloud Run that forwards traffic to multiple V2Ray backends.
 
